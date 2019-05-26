@@ -37,6 +37,10 @@ h1, h2, h3, h4 {
     margin-right: 20px;
 }
 
+.top-menu small a, .top-menu small a:hover, .top-menu small a:visited {
+    color: #ffffff;
+}
+
 .post {
     margin-bottom: 70px;
 }
